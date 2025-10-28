@@ -34,6 +34,8 @@ Detected **20 potential ionospheric anomalies** that may be **precursors to eart
 
 ## 📈 Sample Output
 ![Model Evaluation Graph](https://raw.githubusercontent.com/ChanchalRawate/Informer-tec-earthquake-prediction/main/model_evaluation_plot.png)
+![Anomaly Detection Graph](https://raw.githubusercontent.com/ChanchalRawate/Informer-tec-earthquake-prediction/main/anomaly_detection_sample.png)
+
 
 
 ---
