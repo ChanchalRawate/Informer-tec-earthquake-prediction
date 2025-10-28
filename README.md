@@ -1,0 +1,1 @@
+# Informer-tec-earthquake-prediction
